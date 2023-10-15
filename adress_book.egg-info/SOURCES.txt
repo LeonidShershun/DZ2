@@ -1,0 +1,7 @@
+setup.py
+adress_book.egg-info/PKG-INFO
+adress_book.egg-info/SOURCES.txt
+adress_book.egg-info/dependency_links.txt
+adress_book.egg-info/entry_points.txt
+adress_book.egg-info/requires.txt
+adress_book.egg-info/top_level.txt
